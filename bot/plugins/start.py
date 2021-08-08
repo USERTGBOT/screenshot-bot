@@ -18,6 +18,8 @@ async def start(c, m, cb=False):
         print(e)
 
     BUTTONS = [[
+        InlineKeyboardButton("🧞MASTER🧞", url="https://t.me/M_STER_YT")
+        ],[
         InlineKeyboardButton("👉UPDATE CHANNEL👈", url="https://t.me/M_STER_TECH")
         ],[
         InlineKeyboardButton("⭐️YOUTUBE⭐️", url="https://youtube.com/channel/UC4Eorw1OaILIuLgdIBdNE0w")
