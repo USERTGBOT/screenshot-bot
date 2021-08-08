@@ -29,8 +29,8 @@ Use /set_watermark to set custom watermarks to your screenshots.
 👉 If the bot dosen't respond to telegram files you forward, first check /start and --confirm bot is alive--. Then make sure the file is a **video file** which satisfies above mentioned conditions.
 👉 If bot replies __😟 Sorry! I cannot open the file.__, the file might be --currupted-- or --is malformatted--.
 
-__If issues persists contact my MASTER.__
-©️@M_STER-TECH
+
+©️@M_STER_TECH
 
 {admin_notification}
 """
